@@ -70,5 +70,5 @@ pip install opencv-python mediapipe numpy pandas scikit-learn keras pyttsx3
 ## ⚠️ Changes Needed In Order To Run The Code
 
 - **In image_to_csv.py, change the path to point to your dataset image directory before running the script.**
-   Example:
-   DATASET_DIR = 'path//to//your//dataset'
+  Example:
+  DATASET_DIR = 'path//to//your//dataset'
