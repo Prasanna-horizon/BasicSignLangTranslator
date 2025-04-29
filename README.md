@@ -64,3 +64,11 @@ pip install opencv-python mediapipe numpy pandas scikit-learn keras pyttsx3
 
 5. **Real-time recognition**  
    Launch `real_time_gesture.py` to start webcam detection and translation
+
+---
+
+## ⚠️ Changes Needed In Order To Run The Code
+
+- **In image_to_csv.py, change the path to point to your dataset image directory before running the script.**
+   Example:
+   DATASET_DIR = 'path//to//your//dataset'
