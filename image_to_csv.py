@@ -9,7 +9,7 @@ mp_hands = mp.solutions.hands
 hands = mp_hands.Hands(min_detection_confidence=0.6, min_tracking_confidence=0.6)
 
 # Set dataset path
-image_folder = "C:\\Users\\prasad\\Trans\\Dataset_img"
+image_folder = "C:\\Folder\\Path\\To\\Dataset_img"
 csv_file = "gesture_data.csv"
 
 # Define column headers
